@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, I'm Fahmi Ruziq.. 👋
+
+![Fahmi Ruziq](img/aku.jpg)
 
 <!--
 **fahmiruziq/fahmiruziq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working **in the Information Systems Study Program**, **Faculty of Technology**, **Battuta University**.
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework..
