@@ -1,6 +1,6 @@
 ## Hello, I'm Fahmi Ruziq.. 👋
 
-![Fahmi Ruziq](img/aku.jpg)
+![Fahmi Ruziq](img/github-header-image.png)
 
 <!--
 **fahmiruziq/fahmiruziq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
